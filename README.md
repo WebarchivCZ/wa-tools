@@ -1,2 +1,2 @@
 # wa-tools
-Scripts for managing web archive
+Scripts for dealing with web archived content. 
